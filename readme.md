@@ -65,14 +65,15 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
 
 ### Web
-- [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
-- [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
-- [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
+- [OnlineCalcAI](https://onlinecalcai.com/) - Collection of 206+ free online calculators in 30 languages for mathematical, scientific, financial, and conversion calculations.
+- [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
+- [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
 
 ## Resources
 
